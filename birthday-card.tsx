@@ -278,7 +278,7 @@ export default function Component() {
       <div className="fixed top-4 left-4 z-50 bg-purple-900/30 backdrop-blur-sm rounded-lg p-4 text-purple-100 border border-purple-700/30">
         <div className="text-center mb-2">
           <div className="text-xs text-purple-200/70 mb-1">🔮 Mystical Journey</div>
-          <div className="text-xs text-purple-200/60">Since July 6, 2005</div>
+          <div className="text-xs text-purple-200/60">Since July 8, 2003</div>
         </div>
 
         <div className="space-y-1 text-xs">
