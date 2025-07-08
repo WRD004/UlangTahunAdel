@@ -101,7 +101,7 @@ export default function Component() {
 
   // Calculate life time from birth date
   useEffect(() => {
-    const birthDate = new Date("2005-07-06T00:00:00") // 6 Juli 2005
+    const birthDate = new Date("2003-07-08T00:00:00") // 8 Juli 2003
 
     const updateLifeTime = () => {
       const now = new Date()
